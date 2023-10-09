@@ -123,4 +123,4 @@ Coordination is needed to facilitate planning and share work load
 The steering team agree on more frequent working meeting, less frequent science meeting
 
 **meeting pace proposal:**
-![proposal](https://hackmd.io/_uploads/SyohdYb-a.png)
+![proposal]([https://hackmd.io/_uploads/SyohdYb-a.png](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/meeting%20pace.png)https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/meeting%20pace.png)
