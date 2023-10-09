@@ -12,6 +12,7 @@ The process:
 4) Upload slides and link them in the notes.
 
 ## 2023
+## [OceanGliders Steering Team meeting, June 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersSteeringTeamMeetingNote_June2023.md)
 ## [OceanGliders Data Management task team, June 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersDataManagementTaskTeamMeetingNoteJune2023.md)
 
 ## 2022
