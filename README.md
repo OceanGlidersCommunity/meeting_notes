@@ -11,7 +11,10 @@ The process:
 3) Push the *.md file here.
 4) Upload slides and link them in the notes.
 
+## 2024
+## [OceanGliders Steering Team meeting, Jan 2024](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersSteeringTeamMeetingNote_Jan2024.md)
 ## 2023
+## [OceanGliders data management task team, Oct 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersSteeringDataManagementTaskTeamMeetingNoteOct2023.md)
 ## [OceanGliders Steering Team meeting, June 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersSteeringTeamMeetingNote_June2023.md)
 ## [OceanGliders Data Management task team, June 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersDataManagementTaskTeamMeetingNoteJune2023.md)
 
