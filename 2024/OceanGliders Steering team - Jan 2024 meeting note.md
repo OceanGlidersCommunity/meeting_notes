@@ -40,7 +40,7 @@ Check the meeting slides [here](https://github.com/OceanGlidersCommunity/meeting
 ### Logistics
 It has been agreed that we should align with Pacific working hours for the next virtual meeting.
 
-### New memebers
+### New members
 The chairs of the new task teams were attending for the first time the steering team meeting. Warm welcome to:
 * **Elizabeth Remy** (Mercartor Ocean International, France), Data assimilation TT co-chair
 * **Ali Aydogdu** (CMCC, Italy), Data assimilation TT co-chair
@@ -97,8 +97,7 @@ The section on real time QC is particularly slow to progress.
 Best practices TT is relying a lot on the github repository while the community is not very use to it.
 Using the meeting in Sweden to train the community on Github could be a nice opportunity (action 5).
 
-
-### Data Management Task team
+### Data Managment Task team
 Emma Gardner is taking the role of Co-chair of the Task team.
 Emma has played an important role in defining the OG1.0 format and has been involved in the OGDMTT since many years now. With 10 years of experience as a data manager at the NOC and a recent appointment as the Autonomous Platform Lead at the BODC, Emma brings a wealth of expertise to the position. In her new role, she will provide leadership and coordination for Argo, Gliders, and AUV (Autosub) platforms, in support of a more sustainable and unified approach to data management. 
 
