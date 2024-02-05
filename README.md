@@ -14,7 +14,7 @@ The process:
 ## 2024
 ## [OceanGliders Steering Team meeting, Jan 2024](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/OceanGliders%20Steering%20team%20-%20Jan%202024%20meeting%20note.md)
 ## 2023
-## [OceanGliders data management task team, Oct 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersDataManagementTeamMeetingNotes_Oct2023)
+## [OceanGliders data management task team, Oct 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersDataManagementTeamMeetingNotes_Oct2023.md)
 ## [OceanGliders Steering Team meeting, June 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersSteeringTeamMeetingNote_June2023.md)
 ## [OceanGliders Data Management task team, June 2023](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OceanGlidersDataManagementTaskTeamMeetingNoteJune2023.md)
 
