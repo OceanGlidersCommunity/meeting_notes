@@ -56,7 +56,7 @@ The benefits to the glider community must be clearly assessed.
 The impact on oustide users (data user, data agregarots) should be considered.
 The distribution of the data sets into a central hub or an aggregation of distributed center should be agreed amongst the OGDM steering team.
 
-Action 5: work directly on DAC and data user to assess the impact of implementation of OG1.0
+Action 5: work with DAC and data user (agregators) to assess the impact of implementation of OG1.0
 Action 6: put at the agenda of next AGDM meeting the organization of the data distribution.
 
 # Glider DAC
