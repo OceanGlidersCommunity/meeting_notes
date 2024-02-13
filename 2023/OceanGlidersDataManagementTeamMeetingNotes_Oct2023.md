@@ -13,7 +13,7 @@ Victor Turpin, Guilherm Pimenta Castelao, Kevin O’Brien, Callum Rollo, Emma Ga
 * New chair
 
 # Actions
-*to be updated* *[list of ongoing actions](https://docs.google.com/document/d/1WJ5Q_oTLTUjmutnGOoJUVJ1HLmN7jrI_iQ2VkMK2ipU/edit?usp=sharing)*
+*[list of ongoing actions](https://docs.google.com/document/d/1Tkw3o4PTmHfAwEpIS8uU5nNgbdUlNBLzpR4Nj7DHUiU/edit#heading=h.hjk9ubhio23f)*
 
 ## New actions
 
