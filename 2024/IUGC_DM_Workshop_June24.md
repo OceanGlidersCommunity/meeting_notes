@@ -22,7 +22,27 @@ Several break out sessions took place to get wide ranging feedback on the follow
 
 ## The role of open-source tools to leverage data management knowledge and capacity across communities. Updates in technology such as federation or cloud services. (Callum)
 
+### What attendees want
 
+- Looking for open source software that can easily process data
+- Want to use community standards
+- Need a script to transfer from current datastypes (raw data or e..g EGO) to OG1
+- Tools need to be more user friendly. How to improve beginner experience
+- Tools should be easier to find
+- Don't want to reinvent the wheel
+- Want small tools that work well for set tasks. Not monolithic workflows
+- Want a script that Just Works (at least on a test dataset)
+
+### Attendees concerns
+
+- unclear ownership of SOPs. Fear on stepping on toes if contributing
+- Lack of institutional support for open source/SOP activity. All done in free time
+- Still using matlab, how to ease the transision to Python
+- Some complex toolboxes fail due to being out of date/poorly docuemented/too complex/platform dependant
+- Should we worry about speed? Use more e.g. julia
+- Formats evolve, tools do not keep up
+- Some packages grow too bloated - hard to find relevant parts of code
+- Where should we sent the data? Coriolis? EMODnet? copernicus?
 
 ## The harmonization underway for command and control (C2) systems for mixed model and mixed mode fleets. Future plans and priorities. (Alvaro)
 
