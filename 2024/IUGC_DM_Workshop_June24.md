@@ -11,6 +11,38 @@ Several break out sessions took place to get wide ranging feedback on the follow
 
 ## The release and adoption of the OG 1.0 data file format: its role and future development (e.g. including technical data, more generic data types like sound, imagery, vectors). How can the OGDMTT help? (Dan)
 
+What about adding new parameters? 
+An example is turbulence data. 
+Step 1: Are the parameters in the vocabulary? Emma should be able to point people in the right direction.
+
+raw data on platform...on board processing. final data published normally....raw data (10 KB/s) on a site for archival. Currently, PIs do this, and the manufacturer (but limited time period). Should be public probably....
+
+Spectra of shear could be saved with meta data about how it was computed from raw data.
+
+Parameter of interest is dissipation rate profile...if something odd..can go back and look at spectra on GDAC.
+Best practice about method used/followed to derive spectra. raw data at PI? or sent to a DAC?
+--look into how to storage. L0, L1...which level does OG want? 
+--erddap does back up
+-SCOR group for the spectral computations in general...ADCPs, microstructure...
+-connect with OG best practices to add info about operations.
+
+Each OCG network has a list of EoV...where are microstructure parameters? currents?
+
+Analysing Ocean Turbulence observations to quantify mixing (ATOMIX) SCOR WG160
+International Science Council----
+
+Maybe other TT can be made in OG (BP WG for microstructure)...they will contact DMTT to help at some point...
+
+USV...common data 
+
+OASIS---community air-ocean interaction...
+
+AUV——some missions (or parts of missions) may be relevant to GOOS and OceanGliders. Why not use OG1.x?
+
+Summary:
+Vocabulary should be investigated, and the method to request additions (if needed) be made known to those who want to add parameters.
+The best practices for that parameter should be established, or at least coordinated so that there is consensus about metadata to include, parameters to be EOVs, and to define levels of processing. (L0, L1, … like satellite products). The WG or TT on best practices could also define what Level(s) is for GDAC, for PI, or other archival.
+Other platforms like USVs and AUVs have much in common, and could take advantage of OG1.x for GOOS-relevant activities. There are few/no known efforts to harmonize in those fields to our knowledge.
 
  
 
