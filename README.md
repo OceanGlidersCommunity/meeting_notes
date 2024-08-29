@@ -13,7 +13,7 @@ The process:
 
 ## 2024
 ### [OceanGliders Data Management task team, Aug 2024](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/DataManagementMeetingSummary-Aug2024.md)
-### [UIGC Data Management Workshop, June 2024](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/IUGC_DM_Workshop_June24.md)
+### [IUGC Data Management Workshop, June 2024](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/IUGC_DM_Workshop_June24.md)
 ### [OceanGliders data management task team - OG1.0, Feb 2024](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/OG1.0%20meeting%20-%20Feb%202024.md)
 ### [OceanGliders Steering Team meeting, Jan 2024](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/OceanGliders%20Steering%20team%20-%20Jan%202024%20meeting%20note.md)
 
