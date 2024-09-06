@@ -4,17 +4,14 @@ Brad De Young, Pierre Testor, Victor Turpin, Naomi Krauzig, Robert Todd, Craig L
 
 ## Agenda
 **Gotenburg feedback – 10 min**
+
 **Sepcial issue – 5 min**
+
 **The Governance rules, memberships and program organization - 35 min**
-•	Governance rules: https://www.oceangliders.org/wp-content/uploads/2018/06/OceanGliders-st_tor.pdf 
-•	Membership rules
-•	Program Vs User group
+
 **OceanOPS SLA and financial support – 30 min**
-•	Current situation
-•	Services needed for OceanGliders
+   
 **The OceanGliders web site – 10 min**
-•	Current situation
-•	How to make progress
 
 
 ## Key Points Discussed:
