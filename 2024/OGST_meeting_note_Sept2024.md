@@ -1,3 +1,4 @@
+# OceanGliders Steering team meeting Note, Sept 2024
 ## Attendees
 Brad De Young, Pierre Testor, Victor Turpin, Naomi Krauzig, Robert Todd, Craig Lee, Pierre Cauchy, Filippa Carvalho, Emma Gardner, Dan Hayes, Ali Aydogdu
 
