@@ -45,12 +45,22 @@ The best practices for that parameter should be established, or at least coordin
 Other platforms like USVs and AUVs have much in common, and could take advantage of OG1.x for GOOS-relevant activities. There are few/no known efforts to harmonize in those fields to our knowledge.
 
  
-
-
-
 ## A strategy for delayed mode workflows (PI – DAC – GDAC), how to feed other repositories such as EMODNet. (Victor)
 
+Discussion started with what is delayed mode data as different organisations have different definitions. Decided there were two levels of delayed mode:
+-	Level 0 relates to the full resolution data that come from the glider when it is recovered 
+-	Level 1 relates to full resolution data that have been calibrated and had quality control (QC) applied
 
+We would be aiming for Level 1 here. 
+
+The group should look at mature sensors initially such as CTD. There are a few resources that could be used as a starting point such as the Argo CTD SOP and IMOS have delayed mode tools for their format (contact Chari). 
+
+It is not realistic to completely automate QC and decisions about QC, although very relevant, realistically need to be made by another subgroup and the delayed mode file format needs to accommodate those decisions. 
+
+Its unlikely to fit all the metadata/information about a deployment in the delayed mode file, particularly at the early stages when focusing on mature sensors, so a user would still need to go to the PI for information. 
+
+The aim of the breakout group would be to have some base guidelines in the next year or so with a suggestion of meetings every two months. 
+ 
 
 ## The role of open-source tools to leverage data management knowledge and capacity across communities. Updates in technology such as federation or cloud services. (Callum)
 
