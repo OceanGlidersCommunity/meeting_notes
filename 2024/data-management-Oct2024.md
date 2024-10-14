@@ -2,11 +2,11 @@
 
 ## agenda
 
-•	Delayed glider meeting feedback (Robyn, Victor) 
-•	UG2 meeting feedback (Jenn) 
-•	AMRIT – how to get involved and provide feedback on a glider metadata form (Victor, Emma)
-•	Next steps for GDAC inclusion of OG1.0 file format? 
-•	File format checker update (Gui)
+*	Delayed glider meeting feedback (Robyn, Victor) 
+*	UG2 meeting feedback (Jenn) 
+*	AMRIT – how to get involved and provide feedback on a glider metadata form (Victor, Emma)
+*	Next steps for GDAC inclusion of OG1.0 file format? 
+*	File format checker update (Gui)
 
 
 ## tickets
