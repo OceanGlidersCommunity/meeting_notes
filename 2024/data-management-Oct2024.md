@@ -23,7 +23,7 @@ https://github.com/OceanGlidersCommunity/OG-format-user-manual/issues/266
 
 
 ## previous actions 
-extra time channels in file format
-vocab actions will be discussed in seperate meetings 
-SOP leads
-open source toolings
+* extra time channels in file format https://github.com/OceanGlidersCommunity/OG-format-user-manual/issues/262
+* vocab actions will be discussed in seperate meetings 
+* SOP leads
+* open source toolings
