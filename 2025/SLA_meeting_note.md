@@ -24,6 +24,16 @@
 	- Victor Turpin reported nearly 3,000 missions registered under OceanOps with harmonized metadata.
 	- The team has developed specific tools for OceanGlider and is partially monitoring GTS and GDAG data.
 	- Victor highlighted ongoing participation in various working groups and community development efforts.
+ 
+ ## 6. Scope of SLA
+ ### Support to operators
+- Data/metadata management support to operators 
+- Dedicated tools, map, indicators for detail monitoring
+- Real-time monitoring of the activity (GTS and OG1.0)
+- Monitoring the data flow through multiple nodes (US IOOS glider DAC, Coriolis, CEOTR, AODN)
+ ### Organisation of international coordination
+- Support to program management (meeting  organisation, reporting)
+- Participation to task teams (data/metadata, BOON, User groups: UG2, EGO) 
 
  # Action list
 Bradley DeYoung
