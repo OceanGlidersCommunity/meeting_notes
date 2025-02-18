@@ -11,7 +11,7 @@ The process:
 3) Push the *.md file here.
 4) Upload slides and link them in the notes.
 ## 2025
-### [OceanGliders / OceanOPS Service Level Agreement meeting, Feb 2025]((https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/SLA_meeting_note.md)
+### [OceanGliders / OceanOPS Service Level Agreement meeting, Feb 2025](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/SLA_meeting_note.md)
 
 ## 2024
 ### [OceanGliders Steering Team meeting, Sept 2024](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2024/OGST_meeting_note_Sept2024.md)
