@@ -28,13 +28,13 @@
  # Action list
 Bradley DeYoung
 1. Send an email to Adam and Laurent to introduce them and note their interest in collaboration.
-2. Look closer at the activities of Dalhousie University related to ocean gliders and tracking networks.
-3. Coordinate with Victor and Jon on the next steps for the OceanOps SLA discussions.
+2. Look closer at the activities of Dalhousie University related to OceanGliders and tracking networks.
+3. Coordinate with Victor and Jon on the next steps for the OceanOPS SLA discussions.
 
 Victor Turpin
-1. Clarify the communication strategy regarding funding sources for Ocean Gliders and EGO.
-2. Coordinate with Laurent on the in-kind support for Ocean Gliders and finalize the details with MariaRita.
-3. Facilitate the discussion on the relationship between Ocean Gliders, UG2, and EGO.
+1. Clarify the communication strategy regarding funding sources for OceanGliders and EGO.
+2. Coordinate with Laurent on the in-kind support for OceanGliders and finalize the details with MariaRita.
+3. Facilitate the discussion on the relationship between OceanGliders, UG2, and EGO.
 
 Laurent MORTIER
 1. Follow up on the collaboration with Adam and the Ocean Tracking Network.
