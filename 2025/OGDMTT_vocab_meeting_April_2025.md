@@ -4,8 +4,9 @@
 Emma Gardner, Louis Clement, Callum Rollo, Victor Turpin,  Mariarita Caracciolo, Félix Margirier, Jennifer Sevadjian, Jordan Atherton, Danielle Wright, Filipa Carvalho, Andy Evans 
 
 ## Notice
-Welcome and introduction from Mariarita Caracciolo, she will be working as technical co-ordinator for OceanGliders. 
-This year will be a a transition period as Victor Turpin steps back at the end of the year. Mariarita will be working alongside Laurent Mortier co-ordinating the EGO network.
+Welcome and introduction from Mariarita Caracciolo, she will be working as Technical Coordinator at OceanOPS. 
+This year will be a a transition period as Victor Turpin steps back from OceanGliders program at the end of the year and 
+Mariarita joins the program. Mariarita will also be working alongside Laurent Mortier co-ordinating the EGO network.
 
 
 ## Discussed ticket 
