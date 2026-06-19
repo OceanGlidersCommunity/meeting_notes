@@ -3,7 +3,7 @@
 https://ucsd.zoom.us/j/92688876982
 
 ## Participants 
-Jen Sevadjian, Emma Gardner, Callum Rollo, Aaron Mau, Chiara Monforte, Ellis LaCroix, Jody Klymak, Kristen Sauby
+Jenn Sevadjian, Emma Gardner, Callum Rollo, Aaron Mau, Chiara Monforte, Ellis LaCroix, Jody Klymak, Kristen Sauby
 
 ## Focus
 OceanGliders updates, existing tools for OG-1.0 and discussing what we can help with in terms of people adopting OG1.0.
